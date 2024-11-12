@@ -1,0 +1,18 @@
+{
+"#lang.name": "Bahasa Indonesia",
+"#lang.credit": "AdaAyam",
+"seltzer": "air_soda",
+"oxidized_copper": "tembaga_teroksidasi",
+"anesthesia": "anestesi",
+"gray_goo": "abu-abu_goo",
+"aluminum": "aluminium",
+"molten_aluminum": "aluminium_cair",
+"fiber": "serat",
+"color_smoke": "warna_asap",
+"sulfur": "sulfur",
+"molten_sulfur": "belerang_cair",
+"sulfur_gas": "gas_sulfur",
+"color_sand": "warna_pasir",
+"yogurt": "yoghurt",
+"frozen_yogurt": "yogurt_beku"
+}
